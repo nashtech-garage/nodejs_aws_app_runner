@@ -1,0 +1,30 @@
+{
+  "name": "aws_app_runner_nodej_sample",
+  "version": "1.0.0",
+  "description": "Demo aws app runner with node",
+  "main": "index.js",
+  "engines": {
+    "node": "12.21.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nashtech-garage/aws_app_runner.git"
+  },
+  "keywords": [
+    "aws",
+    "app",
+    "runner",
+    "cloud",
+    "solution"
+  ],
+  "author": "Minh Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nashtech-garage/aws_app_runner/issues"
+  },
+  "homepage": "https://github.com/nashtech-garage/aws_app_runner#readme"
+}

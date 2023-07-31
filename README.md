@@ -1,2 +1,2 @@
-# aws_app_runner
+# AWS App Runner
 Cloud knowledge about AWS App Runner.
