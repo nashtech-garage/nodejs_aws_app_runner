@@ -67,9 +67,3 @@ If our code have problem, service will automatic roll back.
 ![Roll back when we got problem](images/Build_Wrong.png)
 
 Because we choose manual, so if we want to deploy again, click "Deploy" button.
-
-
-
-
-
-
